@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 	"fmt"
-	"github.com/Belenrisso/especializacionBe3-parcial/internal/tickets"
+	"github.com/Belenrisso/especializacionBe3_parcial/internal/tickets"
 )
 
 func main() {
