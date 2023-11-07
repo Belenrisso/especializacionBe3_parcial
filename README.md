@@ -4,6 +4,7 @@ Taller de código: Desafío Go
 
 
 Planteo
+
 Una aerolínea pequeña tiene un sistema de reservas de pasajes a diferentes países. Este
 retorna un archivo con la información de los pasajes sacados en las últimas 24 horas. La
 aerolínea necesita un programa para extraer información de las ventas del día y, así,
